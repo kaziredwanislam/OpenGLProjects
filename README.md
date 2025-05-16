@@ -1,2 +1,2 @@
 # OpenGLProject
-The first project is about Multiple Moving Circle and line!
+The CircleInnerCircle is about Multiple Moving Circle and line!
